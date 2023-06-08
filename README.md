@@ -16,5 +16,9 @@ next you can run the main.py
 
 ## This is written for linux(ubuntu) if you want to use it in windows please do change somethings like cls instead of clear in main.py and also I used some libraries that doesn't work perfectly inside windows terminal
 
+## Snapshot of Project
+![Image 1 working photo of project](https://github.com/pavanparashuramdevang/Random_USN_Generator/blob/main/snapshots/image_1.png?raw=true)
+![Image 2 Exit status photo of project](https://github.com/pavanparashuramdevang/Random_USN_Generator/blob/main/snapshots/image_2.png?raw=true)
+
 
 
